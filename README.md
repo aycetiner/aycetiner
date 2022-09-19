@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2 align="center"> Languages & Frameworks & Tools  <img title="Repo" height="25" src="images/repository.png"></h2>
+<br>
 <p align="center">
   <code><img title="Python" height="25" src="images/python.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
   <code><img title="Flask" height="25" src="images/flask.svg"></code>
 </p>
 
-<h2 align="center"> Repositories <img title="Repo" height="25" src="images/repository.png"></h2>
+<h2 align="center"> Repositories <img title="Toolbox" height="25" src="images/toolbox.png"></h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/aycetiner/memory-game" title="Memory-Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aycetiner&repo=memory-game&theme=react&border_color=61dafb&border_radius=10"></a>
