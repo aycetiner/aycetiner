@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aycetiner)](https://git.io/streak-stats)
 
 
-<h2 align="center"> Repositories <code><img title="Repo" height="25" src="images/repository.png"></code></h2>
+<h2 align="center"> Repositories <img title="Repo" height="25" src="images/repository.png"></h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/aycetiner/memory-game" title="Memory-Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aycetiner&repo=memory-game&theme=react&border_color=61dafb&border_radius=10"></a>
