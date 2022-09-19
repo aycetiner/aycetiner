@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **aycetiner/aycetiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,15 +31,11 @@ Here are some ideas to get you started:
   <code><img title="Flask" height="25" src="images/flask.svg"></code>
 </p>
 
-
 <h2 align="center"> Repositories <img title="Repo" height="25" src="images/repository.png"></h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/aycetiner/memory-game" title="Memory-Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aycetiner&repo=memory-game&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
-
-
 
 <br><br><br><br><br><br>
 <h4 align="center">
