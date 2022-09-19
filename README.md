@@ -31,8 +31,13 @@ Here are some ideas to get you started:
   <code><img title="Flask" height="25" src="images/flask.svg"></code>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aycetiner)](https://git.io/streak-stats)
+<div align=center>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=aycetiner)](https://git.io/streak-stats)
+</div>
 
+<div align=center>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aycetiner)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <h2 align="center"> Repositories <img title="Repo" height="25" src="images/repository.png"></h2>
 <br>
