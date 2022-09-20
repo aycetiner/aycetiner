@@ -10,7 +10,9 @@
   <code><a href="https://www.hackerrank.com/ayenercetiner" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/20000567/ali" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.png"> Stack Overflow</a></code>
 </h5>
-
+<br>
+<br>
+<br>
 <h2 align="center"> Languages & Frameworks & Tools </h2>
 <br>
 <p align="center">
