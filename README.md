@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> Languages & Frameworks & Tools <img title="Toolbox" height="35" src="images/toolbox.png"></h2>
+<h2 align="center"> Languages & Frameworks & Tools <img title="Toolbox" height="35" style="float: right;" src="images/toolbox.png"></h2>
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="images/python.svg"></code>
