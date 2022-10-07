@@ -41,7 +41,7 @@
 </div>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/aycetiner/jeopardy" title="Jeopardy"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aycetiner&repo=jeopardy&theme=react&border_color=61dafb&border_radius=10"></a>
-   <a align="right" href="https://github.com/aycetiner/hack-or-snooze-api" title="hack-or-snooze-api"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aycetiner&repo=hack-or-snooze-api&theme=react&border_color=61dafb&border_radius=10"></a>
+   <a align="right" href="https://github.com/aycetiner/hack-or-snooze-ajax-api" title="hack-or-snooze-ajax-api"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aycetiner&repo=hack-or-snooze-ajax-api&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 
