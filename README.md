@@ -45,10 +45,11 @@
 </div>
 
 
-<br><br>
+<p>
 <h4 align="center">
   <a href="https://github.com/aycetiner?tab=repositories" title="Show Repositories"> Show More 🔍</a>
 </h4>
+</p>
 <!--
 **aycetiner/aycetiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
