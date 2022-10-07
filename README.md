@@ -35,7 +35,7 @@
 <br>
 <h2 align="center"> Repositories </h2>
 <br>
-<p>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/aycetiner/movie-loco" title="Movie Loco App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aycetiner&repo=movie-loco&theme=react&border_color=61dafb&border_radius=10"></a>
    <a align="right" href="https://github.com/aycetiner/twitter-clone" title="Warbler App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aycetiner&repo=twitter-clone&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -44,13 +44,13 @@
   <a align="left" href="https://github.com/aycetiner/jeopardy" title="Jeopardy"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aycetiner&repo=jeopardy&theme=react&border_color=61dafb&border_radius=10"></a>
    <a align="right" href="https://github.com/aycetiner/hack-or-snooze-ajax-api" title="hack-or-snooze-ajax-api"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aycetiner&repo=hack-or-snooze-ajax-api&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-</p>
 
-<p>
+
+
 <h4 align="center">
   <a href="https://github.com/aycetiner?tab=repositories" title="Show Repositories"> Show More 🔍</a>
 </h4>
-</p>
+
 <!--
 **aycetiner/aycetiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
