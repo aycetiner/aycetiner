@@ -7,7 +7,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/ali-yener-cetiner/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/ayenercetiner" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> HackerRank</a></code>
+  <code><a href="https://www.hackerrank.com/ayenercetiner" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> Leetcode</a></code>
   <code><a href="https://stackoverflow.com/users/20000567/ali" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.png"> Stack Overflow</a></code>
 </h5>
 <br>
