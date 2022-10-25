@@ -41,7 +41,6 @@
 <img title="Visual Studio Code" height="25" src="images/vs-code.svg">
 <img title="GoogleMapsAPI" height="25" src="images/google-maps.svg">
 <img title="JQuery" height="25" src="images/jquery.svg">
-<img title="Git" height="25" src="images/git.svg">
 <img title="REST API" height="25" src="images/rest-api-48.png">
 <img title="Bootstrap" height="25" src="images/bootstrap.svg">
 </p>
