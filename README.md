@@ -44,7 +44,6 @@
 <img title="Git" height="25" src="images/git.svg">
 <img title="REST API" height="25" src="images/rest-api-48.png">
 <img title="Bootstrap" height="25" src="images/bootstrap.svg">
-<img title="Flask" height="25" src="images/flask.svg">
 </p>
 <br>
 <br>
