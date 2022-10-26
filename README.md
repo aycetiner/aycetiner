@@ -42,7 +42,6 @@
 <img title="GoogleMapsAPI" height="25" src="images/google-maps.svg">
 <img title="JQuery" height="25" src="images/jquery.svg">
 <img title="REST API" height="25" src="images/rest-api-48.png">
-<img title="Bootstrap" height="25" src="images/bootstrap.svg">
 </p>
 <br>
 <br>
