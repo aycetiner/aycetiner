@@ -38,10 +38,8 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<img title="Visual Studio Code" height="25" src="images/vs-code.svg">
-  <a href="https://developers.google.com/maps" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="googlemapsapi" width="40" height="40"/> </a> 
-<img title="GoogleMapsAPI" height="25" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg">
-<img title="JQuery" height="25" src="images/jquery.svg">
+<a href="https://developers.google.com/maps" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="googlemapsapi" width="40" height="40"/> </a> 
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="JQuery" width="40" height="40"/> </a> 
 <img title="REST API" height="25" src="images/rest-api-48.png">
 </p>
 <br>
