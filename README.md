@@ -8,7 +8,7 @@
   <code>
     <a href="https://www.linkedin.com/in/ali-yener-cetiner/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.leetcode.com/ayenercetiner/" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> Leetcode</a></code>
-  <code><a href="https://www.hackerrank.com/ayenercetiner" title="Hacker Rank Profile"><img width="22" src="images/hackerrank.png"> Hacker Rank</a></code>
+  <code><a href="https://www.hackerrank.com/ayenercetiner" title="Hacker Rank Profile"><img width="22" src="images/HackerRank.png"> Hacker Rank</a></code>
 </h5>
 <br>
 <br>
